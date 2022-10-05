@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la .. /boot /my_working_directory
+ls -la .. /boot
