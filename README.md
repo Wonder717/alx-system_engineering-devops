@@ -1,3 +1,3 @@
 # alx-system_engineering-devops
 
-Basic commands to navigate the shell
+This repository provides an overview of shell scripting and some of the most frequently used commands to navigate the Linux shell.
