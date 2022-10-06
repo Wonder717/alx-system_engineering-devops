@@ -1,0 +1,1 @@
+This directory is contained with shell permission commands. The multi-user feature of Linux systems can be appreciated with how these commands help in defining and managing individual and group access
