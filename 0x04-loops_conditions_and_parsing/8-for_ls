@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#list all of the strings after done
+for i in *; do
+	echo "$i" | cut -d '-' -f2
+done
