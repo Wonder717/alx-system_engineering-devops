@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#7-clock printout
+i=0
+j=0
+while [ "$i" -lt 13 ]
+do
+	echo "Hour: $i"
+	while [ "$j" -lt 59 ]
+		do
+			((j++))
+			echo "$j"
+	done
+((i++))
+((j=0))
+done
