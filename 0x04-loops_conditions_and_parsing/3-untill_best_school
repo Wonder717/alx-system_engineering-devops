@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#script to prints best school 10 times
+text="Best School"
+i=0
+until [ "$i" -eq 10 ]
+do
+	echo "$text"
+	((i++))
+done
