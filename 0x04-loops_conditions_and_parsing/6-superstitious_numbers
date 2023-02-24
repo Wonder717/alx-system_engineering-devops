@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+#Prints the 6-superstitous_number
+i=0
+bad_china="bad luck from China"
+bad_japan="bad luck from Japan"
+bad_italy="bad luck from Italy"
+while [ $i -lt 20 ]
+do
+	((i++))
+	case $i in
+		4) echo 4; echo "$bad_china";;
+		9) echo 9; echo "$bad_japan";;
+		17) echo 17; echo "$bad_italy";;
+		*) echo "$i";;
+	esac
+
+	
+done
