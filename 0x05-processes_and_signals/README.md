@@ -1,1 +1,1 @@
-Assignment on Processes and signals
+Assignment on processes and signals
